@@ -78,6 +78,7 @@ RUN apk --update --no-cache add \
     ttf-freefont \
     util-linux \
     vim \
+    wine \
     wireshark \
     vlc-qt \
     xauth \
